@@ -1,6 +1,16 @@
-p {
-  color: red;
+.important {
+    font-weight: bold;
+    font-size: xx-large;
 }
-.listas {
-  display: none;
+
+.blue {
+    color: blue;
+}
+#div7 {
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    margin: 3px;
+    border: 1px solid blue;
+    background-color: lightblue;
 }
